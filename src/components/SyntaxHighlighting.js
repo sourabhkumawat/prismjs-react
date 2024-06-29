@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Prism from 'prismjs';
 import 'prismjs/themes/prism.css'; // Dark theme for Prism.js
 import 'prismjs/components/prism-javascript'; // Example: include a language definition
